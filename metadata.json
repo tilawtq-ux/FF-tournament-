@@ -1,0 +1,7 @@
+{
+  "name": "Ignite - Free Fire Tournament Panel",
+  "description": "A high-performance gaming user panel for Free Fire tournaments featuring real-time match tracking, wallet management, and AI-powered avatar editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
